@@ -1,7 +1,7 @@
 # Wine-Quality-Prediction-Using-Machine-Learning
 This project focuses on predicting wine quality—categorized as Good, Average, or Bad—using its physicochemical attributes. Machine learning models are trained and tested on the Wine Quality dataset, leveraging feature engineering and ensemble methods to achieve strong predictive performance.
 
-#🍷 Wine Quality Prediction with Machine Learning
+# Wine Quality Prediction with Machine Learning
 
 This project focuses on predicting wine quality (categorized as Good, Average, or Bad) based on its physicochemical features. It demonstrates a complete ML pipeline — covering preprocessing, feature engineering, model optimization, and deployment-ready prediction — with an interactive input setup for testing in real time.
 
