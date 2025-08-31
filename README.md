@@ -67,7 +67,8 @@ Course Project (Sept 2024 – Dec 2024)
 
 # 7) Author
 
-Tejaswini P
+Tejaswini P 
+
 tejpasumarthi07@gmail.com
 
 ⭐ If you like this project, please consider giving it a ⭐!
